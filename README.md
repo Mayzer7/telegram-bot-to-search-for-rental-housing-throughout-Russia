@@ -1,8 +1,10 @@
-<img width="671" height="708" alt="Скриншот 04-05-2026 123247" src="https://github.com/user-attachments/assets/6149659b-164a-44c0-9fbe-cd3b2d47a36c" />
+<p align="center">
+   <img width="671" height="708" alt="Скриншот 04-05-2026 123247" src="https://github.com/user-attachments/assets/6149659b-164a-44c0-9fbe-cd3b2d47a36c" />
+</p>
 
-# 🏠 Telegram-бот для поиска жилья (Cian.ru)
+# Telegram-бот для поиска жилья (Cian.ru)
 
-## 🚀 Быстрый старт
+## Запуск
 
 1. **Клонирование**:
    ```bash
